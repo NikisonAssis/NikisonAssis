@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nikison
 
-<!--
-**NikisonAssis/NikisonAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia e games.  
+🎯 Atualmente aprendendo **Java**, **Python** e explorando novas tecnologias.  
+🎮 Fã de games, animes e programação criativa.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎓 Estudando **Sistemas de Informação**
+- 💡 Sempre buscando aprender algo novo e criar projetos legais
+- 🎯 Objetivo: trabalhar com tecnologia e compartilhar conhecimento
+
+---
+
+## 🛠️ Tecnologias que uso e estudo
+- **Linguagens:** Java, Python, HTML, CSS, JavaScript
+- **Ferramentas:** Eclipse, VS Code, Git & GitHub
+- **Áreas de interesse:** Desenvolvimento, Games, Automação
+
+---
+
+## 📊 Estatísticas do GitHub
+![Nikison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikisonLima&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikisonLima&layout=compact&theme=dracula)
+
+---
+
+## 📫 Como me encontrar
+- 📧 Email: **nikisonassis@gmail.com**
+- 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/nikison-de-assis-lima-101082235)
+
+
+---
+
+⭐ _Seja bem-vindo ao meu perfil! Sempre aberto para trocar ideias e colaborar em projetos._
+
