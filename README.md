@@ -29,7 +29,7 @@
 
 ## 📫 Como me encontrar
 - 📧 Email: **nikisonassis@gmail.com**
-- 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/nikison-de-assis-lima-101082235)
+- 💼 LinkedIn: [Nikison](https://www.linkedin.com/in/nikison-de-assis-lima-101082235)
 
 
 ---
